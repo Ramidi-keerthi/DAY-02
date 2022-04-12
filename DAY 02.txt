@@ -1,0 +1,17 @@
+EXECUTE THE CODE AND WRITE YOUR DESCRIPTION
+
+                       //output
+a. typeof(1)           //number 
+b. typeof(1.1)         //number
+c. typeof('1.1')       //string (because it is inside the quotes)
+d. typeof(true)        //boolean (boolean values are true and false)
+e. typeof(null)        //object  (In JavaScript null is "nothing".Unfortunately, in JavaScript, the data type of null is an object)
+f. typeof(undefined)   //undefined  (returns undefined if the variable that is being evaluated does not have an assigned value)
+g. typeof([])          //object
+h. typeof({})          //object
+i. typeof(NaN)         //number  (JavaScript number has a special value called NaN , which stands for Not-a–Number)
+
+
+
+
+
